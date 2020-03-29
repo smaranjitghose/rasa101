@@ -8,8 +8,8 @@ In the recent years,virtual assitants or commonly known as chatbots have become 
 
 ![Chatbots](https://media.giphy.com/media/400He9KsCbdgYt2N7N/giphy.gif)
 
-Wondering much effort would it take to create a simple one that can be later tuned for better perfomance?🤔🤔
-Lines of Javascript? State-of-the art NLP?
+Wondering how much effort would it take to create a simple one that can be later tuned for better perfomance?🤔🤔
+Tons of lines of Javascript? State-of-the art NLP?
 
 ![Lost](https://media.giphy.com/media/L3pfVwbsJbrk4/giphy.gif)
 
