@@ -37,13 +37,15 @@ So, here is a simple NLU project of a chatbot using RASA
 
 - Now finally fetch rasa using pip : ```pip install rasa```
 
-(Again take a break,learn some NLP and let it get all it wants)
+(Again take a break ⏳,learn some NLU and let it get all it all it needs 🔨)
 
-- Boom!🧨 you are done
+- Boom!🧨 you are done!
 
 - To run the chatbot type: ```rasa shell``` and all it host the server
 
 - Now chat with your virtual buddy!
+
+![chatbot-run](https://media.giphy.com/media/l3vRjRWRn66Kjm3Ic/giphy.gif)
 
 - To exit, type: ```/stop```
 
