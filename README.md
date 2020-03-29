@@ -1,5 +1,23 @@
 # rasa101
-A foundational NLU project to train a chatbot using Rasa
+
+Who doesn't love to chat?
+
+![chat](https://media.giphy.com/media/3og0IMVPaqrnGfBnZm/giphy.gif)
+
+In the recent years,virtual assitants or commonly known as chatbots have become common. From Alexa,Cortana,Assistant,Bixby to those bugging ones in an E-Commerce website chatbots are everywhere
+
+![Chatbots](https://media.giphy.com/media/400He9KsCbdgYt2N7N/giphy.gif)
+
+Wondering much effort would it take to create a simple one that can be later tuned for better perfomance?🤔🤔
+Lines of Javascript? State-of-the art NLP?
+
+![Lost](https://media.giphy.com/media/L3pfVwbsJbrk4/giphy.gif)
+
+And then came in RASA!
+
+![Hero](https://media.giphy.com/media/eIUpSyzwGp0YhAMTKr/giphy.gif)
+
+So, here is a simple NLU project of a chatbot using RASA
 
 #### Usage: 
 
@@ -25,7 +43,9 @@ A foundational NLU project to train a chatbot using Rasa
 
 - To run the chatbot type: ```rasa shell``` and all it host the server
 
-- To exit, type: ```/stop````
+- Now chat with your virtual buddy!
+
+- To exit, type: ```/stop```
 
 
 ## Grateful 🙏 to [Dr. Ratchel Tatman](http://www.rctatman.com/) for her Live Sessions on Rasa as well as the interactive [Rasa Forum](https://forum.rasa.com/)
@@ -37,9 +57,6 @@ A foundational NLU project to train a chatbot using Rasa
 [MIT License](https://github.com/smaranjitghose/rasa101/blob/master/LICENSE)
 
 # **Crafted with ❤ by Smaranjit Ghose**
-
-
-
 
 
 
