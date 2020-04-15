@@ -19,12 +19,12 @@ And then came in RASA!
 
 So, here is a simple NLU project of a chatbot using RASA
 
-#### Usage: 
+## Usage: 
 
 ![usage](https://media.giphy.com/media/H2SiDhuGVJRWU/giphy.gif)
 
 - Make sure you have the lastest version of [Anaconda](https://www.anaconda.com/distribution/) installed on your system and its set to path
-- **For Windows:** [Download](https://support.microsoft.com/en-us/help/2977003/the-latest-supported-visual-c-downloads)and install Microsoft Visual C++
+- **For Windows:** [Download](https://support.microsoft.com/en-us/help/2977003/the-latest-supported-visual-c-downloads) and install Microsoft Visual C++
 - Clone this repository ⏬
 - Move inside 👉 the repo 
     - Open the Terminal 👩‍💻 and type ```cd rasa101```
